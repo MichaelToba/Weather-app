@@ -1,0 +1,13 @@
+#forecast {
+    position: relative;
+    left: 0;
+    margin-top: 20px; /* Add some space from the top */
+}
+
+h1 {
+    margin-bottom: 10px; /* Add more space at the bottom */
+    background-image: linear-gradient(to right, #FFC108, #4EEC7D, #007BFF); /* Adjust the colors if needed */
+    padding: 10px; /* Add padding for better visibility */
+    text-align: center; /* Center-align the text */
+    color: #fff; /* Change the text color to white */
+}
